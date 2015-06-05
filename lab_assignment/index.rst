@@ -5,6 +5,8 @@ Grid Connected Inverter Lab
 *Lab assignment material*.
 
 
+[TODO: move most of this content in a Intro page]
+
 Technical context
 =================
 
