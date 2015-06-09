@@ -46,6 +46,9 @@ Objective of this series of four lab sessions:
     Being able to *understand the structure*, *design* and *implement in simulation*
     the control of the power flows of a three-phase grid connected inverter
 
+Why controlling P,Q: to support the grid blablalba
+
+
 Systems under study
 
 In this course, we will consider a **three-phase** rooftop PV system
@@ -94,12 +97,12 @@ Lab timeline
    30-control
    40-robustness
 
-
 .. extra documents
 
 .. toctree::
     :hidden:
     
+    90-references
     glossary
 
 Index
